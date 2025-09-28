@@ -1,6 +1,6 @@
 📌 Project Overview
 
-This repository contains an end-to-end machine learning pipeline built using Snowflake Feature Store and Python (scikit-learn).
+This repository contains a machine learning pipeline built using Snowflake Feature Store and Python (scikit-learn).
 The project explores the Titanic dataset and demonstrates how to:
 
 --Prepare and explore raw data in Snowflake ️
