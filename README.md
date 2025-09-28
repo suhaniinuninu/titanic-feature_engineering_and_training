@@ -12,6 +12,7 @@ Store engineered features in a Feature Store for ML pipelines 📦
 Train and evaluate a Logistic Regression model to predict passenger survival 🤖
 
 Visualize results with accuracy scores, predictions, and confusion matrices 📊
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚙️ Workflow
 
