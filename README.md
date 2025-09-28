@@ -3,15 +3,15 @@
 This repository contains an end-to-end machine learning pipeline built using Snowflake Feature Store and Python (scikit-learn).
 The project explores the Titanic dataset and demonstrates how to:
 
-Prepare and explore raw data in Snowflake ❄️
+--Prepare and explore raw data in Snowflake ️
 
-Engineer meaningful features (age groups, family size, cabin indicator, etc.) 🛠️
+--Engineer meaningful features (age groups, family size, cabin indicator, etc.) 
 
-Store engineered features in a Feature Store for ML pipelines 📦
+--Store engineered features in a Feature Store for ML pipelines 
 
-Train and evaluate a Logistic Regression model to predict passenger survival 🤖
+--Train and evaluate a Logistic Regression model to predict passenger survival 
 
-Visualize results with accuracy scores, predictions, and confusion matrices 📊
+--Visualize results with accuracy scores, predictions, and confusion matrices 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚙️ Workflow
